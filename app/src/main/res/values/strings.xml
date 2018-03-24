@@ -3,4 +3,36 @@
     <string name="action_create_order">Create Order</string>
     <string name="action_settings">Settings</string>
     <string name="action_share">Share</string>
+    <string name="title_top">Top fragment</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+
+
+    <string-array name="pizzas">
+        <item>Diavlo</item>
+        <item>Funghi</item>
+        <item>Sauce</item>
+    </string-array>
+
+    <string-array name="pasta">
+        <item>Spagetti Bolognese</item>
+        <item>Lasagne</item>
+        <item>Butter</item>
+    </string-array>
+
+    <string-array name="stores">
+        <item>Cambridge</item>
+        <item>Sebastopol</item>
+        <item>Hamden</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>Home</item>
+        <item>Pizza</item>
+        <item>Pasta</item>
+        <item>Stores</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
